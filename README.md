@@ -1,4 +1,4 @@
-# Artificial-Intelligence---Fuzzy-Logic
+# Artificial Intelligence - Fuzzy-Logic
 Fuzzy Logic code example
 
 -Assumption:
